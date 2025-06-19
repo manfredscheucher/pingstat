@@ -27,7 +27,7 @@ This Python script pings a specified IP address (default: `8.8.8.8`) once per se
 2. Run the script using Python:
 
 ```bash
-python ping_statistics.py
+python pingstat.py
 ```
 
 3. To stop the script, press `Ctrl+C`.
